@@ -11,3 +11,6 @@ Spatial Analyst toolbox was used for the following actions
 2. The elevation data has been derived from the DEM raster, and using zonal statistics tool, every parcel in the new town has details about min, max, mean elevations
 3. The slope data has been derived from DEM the raster, and using zonal statistics tool, every parcel in the new town has details about min, max, mean elevations
 4. The distance of the new locations in town from the old location are calculated and saved under each parcel
+
+
+The webmap can be viewed at https://www.arcgis.com/home/item.html?id=078f12fcaba341ddb2c38e86994e871d
